@@ -1,14 +1,8 @@
-<h2 align="center">Hi 👋, I'm Fabian</h2>
-<h4 align="center">Coder with a huge soft spot for beautiful UX. Founder & CEO @epap_app</h4>
-<br>
+<h3>Hi, I'm Fabian</h3>
+<h4>One day, one of my apps will win an Apple Design Award.</h4>
 
-- 🔭 I’m currently working on [epap](https://epap.app)
+- 🐦 Follow on [Twitter](https://www.twitter.com/fabiangruss/) where I share my journey & learnings from founder to bootstrapping a portfolio of small bets, like [What's going on?](https://goingon.app)
 
-- 💬 Ask me about **Startups, UX, Flutter, iOS & Android**
+- 📄 You can also find me on [LinkedIn](https://www.linkedin.com/in/fabiangruss/)
 
-- 📫 Reach me under fg@epap.app
-
-- 📄 Find me on [LinkedIn](https://www.linkedin.com/in/fabiangruss/)
-
-- 🐦 Or on [Twitter](https://www.twitter.com/fabiangruss/)
  ****
